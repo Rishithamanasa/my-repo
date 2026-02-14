@@ -1,1 +1,2 @@
-MY FIRST REPO IT IS SO HAPPY TO SHARE
+#HELLO  This is Rishitha
+this is my first repo
